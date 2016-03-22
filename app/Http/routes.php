@@ -18,6 +18,9 @@ Route::get('/', function () {
 Route::get('home', 'HomeController@index');
 
 
+Route::resource('tasks','TaskController');
+
+
 /*
 |--------------------------------------------------------------------------
 | Application Routes

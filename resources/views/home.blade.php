@@ -9,6 +9,7 @@
 
 				<div class="panel-body">
 					You are using bootstrap
+                                        <i class="fa fa-bluetooth-b"></i>
 				</div>
 			</div>
 		</div>
